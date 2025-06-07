@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <width>k__BackingField: 10
   <height>k__BackingField: 10
-  <depth>k__BackingField: 5
+  <depth>k__BackingField: 2
   <tileSpriteVariants>k__BackingField:
   - {fileID: 21300000, guid: 7cea976e1ace4444f9ba08733394d76a, type: 3}
   - {fileID: 21300000, guid: 82179a193b1b04fb283c790342edb447, type: 3}
@@ -26,4 +26,4 @@ MonoBehaviour:
   - {fileID: 21300000, guid: dffc9861413334b5c9cdc5e13614b743, type: 3}
   <tileOffsetY>k__BackingField: 0.1
   <blockedColor>k__BackingField: {r: 0.2830189, g: 0.2830189, b: 0.2830189, a: 0}
-  <stepDelay>k__BackingField: 0
+  <stepDelay>k__BackingField: 0.1
